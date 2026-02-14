@@ -1,6 +1,6 @@
 # Requirements Document - CodeSus Web Application
 
-**Project Name:** CodeSus - AI Among Coders (Web Platform)  
+**Project Name:** CodeSPY - AI Among Coders (Web Platform)  
 **Hackathon:** AWS AI for Bharat Hackathon 2025  
 **Team:** [Your Team Name]  
 **Date:** February 2025  
